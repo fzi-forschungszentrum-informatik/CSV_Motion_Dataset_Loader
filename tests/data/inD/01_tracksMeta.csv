@@ -1,0 +1,8 @@
+recordingId,trackId,initialFrame,finalFrame,numFrames,width,length,class
+1,0,0,6,7,1.87,4.788,car
+1,1,0,6,7,0.00,0.00,pedestrian
+1,2,0,6,7,2.185,5.11,car
+1,3,0,6,7,0.00,0.00,pedestrian
+1,4,0,6,7,2.104,4.416,car
+1,5,0,6,7,2.064,4.437,car
+1,6,0,6,7,2.108,5.017,car
